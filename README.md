@@ -1,0 +1,2 @@
+# SepiaCodingTask
+petsList with collectionView
